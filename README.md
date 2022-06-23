@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi  I,m Rohan Kumar👋
 
-<!--
-**cor1234/cor1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently focus on getting internship
+- 🌱 I’m currently practicing dsa question and love to participate in codding contest
+- 👯 I’m looking to collaborate on OpenSource project
+- 🤔 I’m looking for mentor in getting internship and placement
+- 💬 Ask me anything about data structure 
+- 📫 How to reach me: [Linkedin - @Rohan](https://www.linkedin.com/in/rohan-kumar-465218227/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend free time in reading current affair
 -->
+
+
+https://github-readme-stats.vercel.app/api?username=cor1234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
