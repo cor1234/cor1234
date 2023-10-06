@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently focus on getting internship
+- 🔭 I’m currently focus on getting placement
 - 🌱 I’m currently practicing dsa question and love to participate in codding contest
 - 👯 I’m looking to collaborate on OpenSource project
 - 🤔 I’m looking for mentor in getting internship and placement
